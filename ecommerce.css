@@ -34,8 +34,7 @@ h3
 {
     height: 120px;
     width: 220px;
-
-  }
+}
   
 #img3
 {
@@ -56,11 +55,12 @@ h3
   width: 170px;
 }
 
-.question {
+.question 
+{
     background-color: royalblue;
     font-size: 24pt;
     color: aliceblue;
-  }
+ }
 
 hr
 {
