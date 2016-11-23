@@ -57,6 +57,12 @@ width: auto;
   width: 25%;
 }
 
+#img5
+{
+  height: 30%;
+  width:20%;
+}
+
 .question {
     background-color: royalblue;
     font-size: 24pt;
