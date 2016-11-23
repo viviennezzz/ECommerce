@@ -24,50 +24,44 @@ h3
   color: darkblue;
 }
 
-img
-{
-max-width: 100%;
-height: auto;
-width: auto; 
-}
-
 #img1
 {
-  height: 40%; 
+  height: 330px; 
   width: 100%;
 }
 
 #img2 
 {
-    height: 20%;
-    width: 20%;
+    height: 120px;
+    width: 220px;
 
   }
   
 #img3
 {
-  height: 20%; 
-  width: 25%;
+  height: 200px; 
+  width: 250px;
   padding-top: 30;
 }
 
 #img4
 {
-  height: 25%; 
-  width: 25%;
+  height: 200px; 
+  width: 220px;
 }
 
 #img5
 {
-  height: 30%;
-  width:20%;
+  height: 200px;
+  width: 170px;
 }
 
-.question {
+.question 
+{
     background-color: royalblue;
     font-size: 24pt;
     color: aliceblue;
-  }
+ }
 
 hr
 {
